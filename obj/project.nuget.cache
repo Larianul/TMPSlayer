@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vCmcZahnciztsp7CEdSDv56RZiUeQS8aUls6YlljaGA/eq7B9A9tg/Z+6bQaCkxLNdWljH1E2/48GvvKdu5xQ==",
+  "success": true,
+  "projectFilePath": "/home/larian/TMPSlayer/Linux/ProiectSO/ProiectSO.csproj",
+  "expectedPackageFiles": [
+    "/home/larian/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.19/microsoft.netcore.app.host.linux-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

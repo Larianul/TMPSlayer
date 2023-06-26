@@ -1,0 +1,15 @@
+/home/larian/TMPSlayer/Linux/ProiectSO/bin/Debug/net6.0/ProiectSO
+/home/larian/TMPSlayer/Linux/ProiectSO/bin/Debug/net6.0/ProiectSO.deps.json
+/home/larian/TMPSlayer/Linux/ProiectSO/bin/Debug/net6.0/ProiectSO.runtimeconfig.json
+/home/larian/TMPSlayer/Linux/ProiectSO/bin/Debug/net6.0/ProiectSO.dll
+/home/larian/TMPSlayer/Linux/ProiectSO/bin/Debug/net6.0/ProiectSO.pdb
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.csproj.AssemblyReference.cache
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.GeneratedMSBuildEditorConfig.editorconfig
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.AssemblyInfoInputs.cache
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.AssemblyInfo.cs
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.csproj.CoreCompileInputs.cache
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.dll
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/refint/ProiectSO.dll
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.pdb
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ProiectSO.genruntimeconfig.cache
+/home/larian/TMPSlayer/Linux/ProiectSO/obj/Debug/net6.0/ref/ProiectSO.dll
